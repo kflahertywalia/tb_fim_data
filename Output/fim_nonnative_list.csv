@@ -1,0 +1,44 @@
+Scientificname,Commonname,Taxa_group,Taxa_Type,Taxa,total_count,n_observations,nonnative,invasive,FIM (TKW) Notes
+Amphilophus citrinellus,Midas Cichlid,Amphilophus citrinellus,Fish,species,,,Y,,"Does not occur within FIM TB samples, but on FWC non-natives list"
+Arapaima gigas,Arapaima,Arapaima gigas,Fish,species,,,Y,,"Does not occur within FIM TB samples, but on FWC non-natives list"
+Astronotus ocellatus,Oscar,Astronotus ocellatus,Fish,species,,,Y,,"Does not occur within FIM TB samples, but on FWC non-natives list"
+Belonesox belizanus,Pike Killifish,Belonesox belizanus,Fish,species,575,333,Y,Y,invasive per Progress towards restoring the Everglades: https://www.nationalacademies.org/read/18809/chapter/8#184
+Cichla ocellaris,Butterfly Peacock,Cichla ocellaris,Fish,species,,,Y,,"Does not occur within FIM TB samples, but on FWC non-natives list"
+Cichlasoma bimaculatum,Black Acara,Cichlasoma dimerus,Fish,species,22,9,Y,Y,"Per Robins et al 2020, these should be Cichalsoma dimerus in TB. I'll have to work with John to change the historic records. Black Acara invasive per FWC"
+Cichlasoma dimerus,Chanchita,Cichlasoma dimerus,Fish,species,3,3,Y,Y,"Black Acara invasive per FWC; the Chanchita is very similar, so I added invasive "
+Cichlasoma spp.,cichlids,Cichlidae spp.,Fish,family,3,3,Y,,grouped into family
+Cichlidae spp.,Cichlids,Cichlidae spp.,Fish,family,69,15,Y,,
+Clarias batrachus,Walking Catfish,Clarias batrachus,Fish,species,7,7,Y,,
+Ctenopharyngodon idella,Grass Carp,Ctenopharyngodon idella,Fish,species,,,Y,,"Does not occur within FIM TB samples, but on FWC non-natives list"
+Cyprinus carpio,Common Carp,Cyprinus carpio,Fish,species,,,Y,,"Does not occur within FIM TB samples, but on FWC non-natives list"
+Hemichromis letourneuxi,African Jewelfish,Hemichromis letourneuxi,Fish,species,195,75,Y,,
+Hoplosternum littorale,Brown Hoplo,Hoplosternum littorale,Fish,species,16,14,Y,Y,added non-native; invasive per FWC
+Hoplosternum spp.,callichthyid armored catfishes,Hoplosternum spp.,Fish,genus,4,4,Y,,
+Ictalurus furcatus,Blue Catfish,Ictalurus furcatus,Fish,species,,,Y,,"Does not occur within FIM TB samples, but on FWC non-natives list"
+Loricariidae spp.,suckermouth armored catfishes,Loricariidae spp.,Fish,family,60,46,Y,,
+Mayaheros urophthalmus,Mayan Cichlid,Mayaheros urophthalmus,Fish,species,829,138,Y,Y,invasive per Progress towards restoring the Everglades: https://www.nationalacademies.org/read/18809/chapter/8#184
+Misgurnus anguillicaudatus,Pond Loach,Misgurnus anguillicaudatus,Fish,species,2,2,Y,,
+Monopterus albus,Asian Swamp Eel,Monopterus albus,Fish,species,4,4,Y,Y,invasive per Progress towards restoring the Everglades: https://www.nationalacademies.org/read/18809/chapter/8#184
+Oreochromis aureus,Blue Tilapia,Oreochromis aureus,Fish,species,664,88,Y,Y,invasive per FWC
+Oreochromis niloticus,Nile Tilapia,Oreochromis niloticus,Fish,species,67,13,Y,,
+Oreochromis spp.,tilapias,Oreochromis/Sarotherodon spp.,Fish,genus,24,2,Y,,
+Oreochromis/Sarotherodon spp.,Tilapias,Oreochromis/Sarotherodon spp.,Fish,genus,3783,623,Y,,
+Parachromis managuensis,Jaguar Guapote,Parachromis managuensis,Fish,species,1,1,Y,,
+Pelmatolapia mariae,Spotted Tilapia,Pelmatolapia mariae,Fish,species,39,19,Y,,
+Penaeus monodon,Asian Tiger Shrimp,Penaeus monodon,Invert,species,,,Y,Y,"Does not occur within FIM TB samples, but on FWC invasives list"
+Protemblemaria punctata,Chameleon Blenny,Protemblemaria punctata,Fish,species,1,1,Y,,added non-native; species from Venezuela. Captured in FIM sampling
+Pterois volitans,Lionfish,Pterois volitans,Fish,species,,,Y,Y,"Does not occur within FIM TB samples, but on FWC invasives list"
+Pterygoplichthys disjunctivus,Vermiculated Catfish,Pterygoplichthys disjunctivus,Fish,species,35,32,Y,,
+Pterygoplichthys multiradiatus,Armoured Catfish,Pterygoplichthys multiradiatus,Fish,species,2,2,Y,,
+Pterygoplichthys pardalis,Amazon sailfin catfish,Pterygoplichthys pardalis,Fish,species,1,1,Y,,
+Pterygoplichthys spp.,suckermouth armored catfishes,Pterygoplichthys spp.,Fish,genus,65,55,Y,,
+Pylodictis olivaris,Flathead Catfish,Pylodictis olivaris,Fish,species,,,Y,,"Does not occur within FIM TB samples, but on FWC non-natives list"
+Rocio octofasciata,Jack Dempsey,Rocio octofasciata,Fish,species,1,1,Y,,
+Sarotherodon melanotheron,Blackchin Tilapia,Sarotherodon melanotheron,Fish,species,1192,352,Y,,
+Serrasalmidae spp.,Piranha,Serrasalmidae spp.,Fish,family,,,Y,,"Does not occur within FIM TB samples, but on FWC non-natives list"
+Synbranchidae spp.,Swamp Eels,Synbranchidae spp.,Fish,family,1,1,Y,,
+Thorichthys meeki,Firemouth Cichlid,Thorichthys meeki,Fish,species,7,1,Y,,
+Tilapia spp.,Tilapias,Tilapia spp.,Fish,genus,1,1,Y,,
+Trachemys scripta elegans,Red-eared Turtle,Trachemys scripta elegans,Turtle,species,11,11,Y,Y,
+Trichromis salvini,Yellowbelly Cichlid,Trichromis salvini,Fish,species,2,1,Y,,
+Xiphophorus spp.,livebearers,Xiphophorus spp.,Fish,genus,6,5,Y,,
