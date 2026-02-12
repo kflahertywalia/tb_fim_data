@@ -21,7 +21,7 @@ write_csv(spp, here("Output", "tb_fim_species.csv"))
 #add any new non-natives, invasives to fim_nonnative_list.csv
 
 invlist <- read_csv(here("Output","fim_nonnative_list.csv"))%>%
-  select(Scientificname,Commonname,Taxa,Taxa_group,Taxa_Type,nonnative,invasive)
+  select(Scientificname,Taxa,Taxa_group,Taxa_Type,nonnative,invasive)
          
 #filter by non-native, invasive species records
 inv <- full_join(com,invlist, by ="Scientificname")%>%
